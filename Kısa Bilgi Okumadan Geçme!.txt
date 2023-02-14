@@ -1,0 +1,14 @@
+Editorde;
+#!/usr/bin/env python
+#-*- coding: utf-8 -*-
+kodlarını saved ettikten sonra diğer kodlar kullanılmalıdır.
+
+Dosyanın konumunu ayarlamakla uğraşmak istemeyen arkadaşlar için ise
+1) Root olun sudo -s
+2) cd home
+3) cd kali
+4) cd Desktop
+şeklinde  yolları izleyin.
+Bu yolları yaptıktan sonra trojanı başlatmanız oluşturacağınız trojan için konum belirtmeden 
+sadece trojan ismi ve uzantısıyla işlem yapabilmenizi sağlayacaktır.
+
